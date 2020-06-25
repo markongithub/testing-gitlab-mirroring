@@ -1,0 +1,4 @@
+image: alpine
+
+hello:
+  script: echo hello world
